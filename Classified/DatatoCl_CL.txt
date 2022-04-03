@@ -1,0 +1,12 @@
+b_404.txt|politics
+b_405.txt|sport
+b_406.txt|business
+b_407.txt|business
+e_307.txt|politics
+e_308.txt|politics
+frompolitico.txt|politics
+p_332.txt|politics
+s_408.txt|sport
+t_318.txt|politics
+t_319.txt|politics
+t_320.txt|sport
